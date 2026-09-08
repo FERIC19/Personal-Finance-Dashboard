@@ -60,7 +60,7 @@ Performed in Power Query:
 - **Top 5 Expenses by Category** — column chart
 - **Top 5 Expenses by Description** — bar chart
 - **Spending by Account** — pie chart (Checking / Platinum Card / Silver Card)
-- **Monthly Net Savings** — column chart
+- **Monthly Net Savings** — line chart
 - **Monthly Savings Rate** — table, conditionally colored green (positive) / red (negative)
 - **Year slicer** (2018 / 2019) connected to all visuals for one-click filtering
 
