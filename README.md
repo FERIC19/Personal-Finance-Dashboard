@@ -52,6 +52,9 @@ Performed in Power Query:
 | Running Balance | Net Savings recalculated across all dates ≤ latest filtered date | Cumulative balance at any point in time, responsive to Year/Month slicers |
 
 ## Dashboard
+
+📊 [Download the Excel Dashboard](dashboard/Personal_Finance_Dashboard.xlsx)
+
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
 **Layout includes:**
