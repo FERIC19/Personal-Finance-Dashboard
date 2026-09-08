@@ -91,7 +91,7 @@ personal-finance-dashboard/
 │   ├── personal_transactions.csv
 │   └── Budget.csv
 ├── dashboard/
-│   └── Personal_Finance_Dashboard.xlsx   (contains both Analysis and Visuals sheets)
+│   └── Personal_finance_Dashboard.xlsx   (contains both Analysis and Visuals sheets)
 ├── screenshots/
 │   └── dashboard-overview.png
 └── README.md
