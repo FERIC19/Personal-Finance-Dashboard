@@ -27,11 +27,8 @@ This project analyzes a personal transaction history (checking + two credit card
 
 ## Dataset
 Two source files:
-| File | Description |
-|---|---|
-| `personal_transactions.csv` | 806 transactions (Jan 2018 – Sep 2019) across 3 accounts (Checking, Platinum Card, Silver Card), with Date, Description, Amount, Transaction Type, Category |
-| `Budget.csv` | Monthly budget target per spending category |
-
+| [`personal_transactions.csv`](/FERIC19/Personal-Finance-Dashboard/raw/main/data/personal_transactions.csv) | 806 transactions (Jan 2018 – Sep 2019) across 3 accounts (Checking, Platinum Card, Silver Card), with Date, Description, Amount, Transaction Type, Category |
+| [`Budget.csv`](/FERIC19/Personal-Finance-Dashboard/raw/main/data/Budget.csv) | Monthly budget target per spending category |
 ## Data Cleaning & Transformation
 Performed in Power Query:
 - Corrected data types (Date → Date, Amount → Decimal Number)
