@@ -52,7 +52,7 @@ Performed in Power Query:
 | Running Balance | Net Savings recalculated across all dates ≤ latest filtered date | Cumulative balance at any point in time, responsive to Year/Month slicers |
 
 ## Dashboard
-*(Screenshots to be added — dark-themed single-page dashboard titled "Personal Finance Dashboard")*
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
 **Layout includes:**
 - **KPI tiles:** My Wallet (net balance), Total Income, Total Expenditure — color-coded green/red with directional arrows
