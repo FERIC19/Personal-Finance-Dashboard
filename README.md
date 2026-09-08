@@ -53,7 +53,7 @@ Performed in Power Query:
 
 ## Dashboard
 
-📊 [Download the Excel Dashboard](dashboard/Personal_Finance_Dashboard.xlsx)
+📊 [Download the Excel Dashboard](dashboard/Personal_finance_Dashboard.xlsx)
 
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
